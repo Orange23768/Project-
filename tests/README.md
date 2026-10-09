@@ -1,0 +1,1 @@
+# przypadki testowe, testy automatyczne
