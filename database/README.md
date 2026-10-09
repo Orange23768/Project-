@@ -1,1 +1,1 @@
-
+# skrypty SQL, kopie zapasowe
