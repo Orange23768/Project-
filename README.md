@@ -1,8 +1,9 @@
 # Task Manager 
 ## Opis projektu 
-Napisz własnymi słowami, czym jest aplikacja i jaki problem rozwiązuje. 
+Menedżer zadań jest narzędziem przeznaczonym do pracy nad zadaniami i dzielenia ich na punkty lub do tworzenia planów dziennych.
 ## Cel projektu 
-Opisz, czego nauczycie się podczas realizacji projektu. 
+- naucz się pracować z Githubem
+- naucz się JS
 ## Funkcjonalności - dodawanie zadań, - edycja zadań, - zmiana statusu, - wyszukiwanie i filtrowanie. 
 ## Technologie - frontend: ... - backend: ... - baza danych: PostgreSQL 
 ## Struktura projektu 
