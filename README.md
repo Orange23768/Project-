@@ -11,7 +11,10 @@ Menedżer zadań jest narzędziem przeznaczonym do pracy nad zadaniami i dzielen
 frontend/ 
 backend/ 
 database/ 
-docs/ tests/ 
+docs/
+tests/
+.github/
+
 ``` 
 ## Uruchomienie 
 Ta sekcja zostanie uzupełniona w kolejnych etapach projektu.
