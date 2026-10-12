@@ -4,3 +4,7 @@ Wyjaśnij, za co odpowiada frontend aplikacji.
 ## Planowane widoki - lista zadań, - formularz dodawania,- formularz edycji. 
 ## Technologie - HTML, - CSS, - JavaScript. 
 ## Proponowana struktura
+```text frontend/   
+css/ 
+  js/ 
+  images/   index.html
